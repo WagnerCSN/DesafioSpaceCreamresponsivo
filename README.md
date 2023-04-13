@@ -8,17 +8,17 @@
 
 :small_blue_diamond: [Project description](#-project-description)
 
-:small_blue_diamond: [functionalities](#-functionalities)
+:small_blue_diamond: [Functionalities](#-functionalities)
 
 :small_blue_diamond: [Deploy](#arrow_forward-deploy)
 
 :small_blue_diamond: [How to run the application](#How-to-run-the-application)
 
-:small_blue_diamond: [Technologies](#Technologies)
+:small_blue_diamond: [Technologies](#-Technologies)
 
-:small_blue_diamond: [Developer](#Developer)
+:small_blue_diamond: [Developer](#-Developer)
 
-:small_blue_diamond: [License](#License)<br/><br/>
+:small_blue_diamond: [License](#-License)<br/><br/>
 
 
 ## 💻 Project description
@@ -28,7 +28,7 @@
   &nbsp&nbsp&nbsp&nbspResponsive application that makes animations when cards are selected with the mouse.
 </p><br/>
 
-## 🔨 functionalities
+## 🔨 Functionalities
 
 :heavy_check_mark: When selected by the mouse, the cards are animated.  
 
@@ -36,14 +36,14 @@
 
 ## :arrow_forward: Deploy  
 
-![Gitfav](https://user-images.githubusercontent.com/119871984/231610610-7c84f48e-2f69-4ff1-83be-361053326d0c.gif)
+![Uploading SpaceCream.gif…](https://user-images.githubusercontent.com/119871984/231853364-3b98e2f6-f589-4bda-9e1e-f871023d6cfc.gif)
 
 ## How to run the application  
 
 In the terminal, clone the project: 
 
 ```
-git clone https://github.com/WagnerCSN/Gitfav
+git clone https://github.com/WagnerCSN/DesafioSpaceCreamresponsivo
 ```
 To open and run the project, just open the index.html file in the browser.<br/><br/>
 
