@@ -25,7 +25,7 @@
 
 <p align="justify">
   
-  &nbsp&nbsp&nbsp&nbspResponsive application that makes animations when cards are selected with the mouse.
+       Responsive application that makes animations when cards are selected with the mouse.
 </p><br/>
 
 ## 🔨 Functionalities
