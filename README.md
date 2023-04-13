@@ -12,13 +12,13 @@
 
 :small_blue_diamond: [Deploy](#arrow_forward-deploy)
 
-:small_blue_diamond: [How to run the application](#How-to-run-the-application)
+:small_blue_diamond: [How to run the application](#how-to-run-the-application)
 
-:small_blue_diamond: [Technologies](#-Technologies)
+:small_blue_diamond: [Technologies](#technologies)
 
-:small_blue_diamond: [Developer](#-Developer)
+:small_blue_diamond: [Developer](#developer)
 
-:small_blue_diamond: [License](#-License)<br/><br/>
+:small_blue_diamond: [License](#license)<br/><br/>
 
 
 ## 💻 Project description
